@@ -2,7 +2,8 @@ package main
 
 import (
 	"fmt"
-	"../common"
+
+	"github.com/sunpengwei1992/go_module_test/common"
 )
 
 func main()  {
