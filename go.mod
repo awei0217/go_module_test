@@ -1,0 +1,1 @@
+module go_module_test
